@@ -1,0 +1,36 @@
+.container{
+    width: 40%;
+    transform: translate(-120px,10px);
+}
+.position{
+	padding: 130px 500px 50px 200px;
+	height:100%;
+	margin-bottom: 0px;
+
+}
+.new{
+	margin-top: 10px;
+	 width: 350px;
+}
+.new:hover{
+	background-color:black;
+}
+.center{
+	text-align: center;
+	font-weight: 700px;
+	text-transform: uppercase;
+	font-size: 30px;
+	margin:0 20px; 
+	/* display: block; */
+	color:green;
+	text-shadow: 2px 2px 3px  lightpink,2px 2px violet
+	 ,2px 2px white;
+}
+.margin{
+    width: 350px;
+}
+span{
+    font-weight: 10px;
+    font-size: 20px; 
+    text-transform: uppercase;
+}
