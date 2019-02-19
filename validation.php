@@ -16,7 +16,7 @@ if($num==1)
 }
 else
 {
-	header('location:http://localhost/login example/login.html');
+	header('location:http://localhost/login example/login.php');
 	exit();
 }
 ?>
